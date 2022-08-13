@@ -2,7 +2,8 @@
 # EpigeneticsOfSocialBehaviors
 
 Course Project completed Fall 2021 at Carnegie Mellon University \| Teammate: Justin Hoffman
-*Please read Final Report.docx for details of the project and conclusions*
+
+*Please refer to Final Report.docx for details of the project and conclusions*
 
 This project aims to 1) identify epigenetic regions that associate with evolution of different social group sizes in primates; 2) investigate its implications in schizophrenia. Predicted open chromatin level of each region that are present in the ATAC-seq data is kindly provided by Dr. Andreas Pfenning. 
 
